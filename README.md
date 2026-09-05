@@ -5,87 +5,109 @@
 </p>
 
 <p align="center">
-  Building real projects. Learning backend. Turning ideas into products.
+  Building real projects • Learning backend • Turning ideas into products
 </p>
 
 <br>
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<p>
 I'm a developer focused on web development and building practical applications.
-I'm currently strengthening my frontend fundamentals while moving deeper into backend development.
-</p>
 
-<h2>🧠 Currently Learning</h2>
+I'm currently moving from frontend fundamentals toward backend and full-stack development, with a focus on building real-world projects rather than only learning theory.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,js" alt="Currently learning">
-</p>
+---
 
-<ul>
-  <li>Node.js</li>
-  <li>PostgreSQL</li>
-  <li>JavaScript</li>
-  <li>Backend development</li>
-  <li>Full-stack development</li>
-</ul>
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>Frontend</h3>
+## 🧠 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,js" alt="Node.js PostgreSQL JavaScript">
 </p>
 
-<h3>Backend & Database</h3>
+* Node.js
+* PostgreSQL
+* JavaScript
+* REST APIs
+* Backend development
+* Full-stack development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
 </p>
 
-<h3>Tools</h3>
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" alt="Node.js PostgreSQL">
 </p>
 
-<h2>📂 Projects</h2>
+### Tools
 
 <p>
-I'm building real-world projects to improve my development skills and create a strong portfolio.
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
 </p>
 
-<h3>📦 Inventory Management System</h3>
+---
 
-<p>
-A web application for managing products, quantities, sales, and invoices.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=spilcode&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p>
-<strong>Technologies:</strong> HTML · CSS · JavaScript
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spilcode&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<h2>🎯 My Direction</h2>
+---
 
-<p>
-<strong>Frontend → Backend → Full-Stack → Building Products</strong>
+## 📂 Featured Project
+
+### 📦 Inventory Management System
+
+A web application for managing:
+
+* Products
+* Quantities
+* Sales
+* Invoices
+* Sales statistics
+
+**Built with:** HTML · CSS · JavaScript
+
+---
+
+## 🎯 Direction
+
+<p align="center">
+  <strong>Frontend → Backend → Full-Stack → Products</strong>
 </p>
 
-<p>
-My goal is not just to learn technologies, but to use them to build useful software.
-</p>
+My goal is to build useful software, solve real problems, and continuously improve through real projects.
 
-<h2>📫 Connect With Me</h2>
+---
+
+## 📫 Connect
 
 <p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/spilcode">
+    <img src="https://img.shields.io/badge/GitHub-spilcode-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <i>Always learning. Always building.</i> 🚀
